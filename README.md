@@ -19,6 +19,9 @@ Personal GitHub profile and project portfolio
 
 - **AI-Driven Automotive Dealership Analytics Platform**  
   Built an analytics platform for a dealership group with AI-driven forecasting and business insights.
+  
+- **Quantitative Trading Strategy Development**  
+  Developed and backtested quantitative trading strategies using financial market data, applying statistical analysis and predictive modeling to evaluate trading signals and portfolio performance.
 
 ## Skills
 
