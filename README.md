@@ -25,7 +25,7 @@ Personal GitHub profile and project portfolio
 
 ## Skills
 
-Python, SQL, Pandas, Scikit-learn, Streamlit, Excel, Machine Learning, Data Analysis
+Python, Java, SQL, Pandas, Scikit-learn, Streamlit, Excel, Machine Learning, Data Analysis
 
 ## Contact
 
